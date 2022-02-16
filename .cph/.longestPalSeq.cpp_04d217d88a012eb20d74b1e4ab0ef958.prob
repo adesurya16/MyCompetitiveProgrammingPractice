@@ -1,0 +1,1 @@
+{"name":"Local: longestPalSeq","url":"d:\\ade\\codecp\\longestPalSeq.cpp","tests":[{"id":1644979991474,"input":"agbdba","output":"5"},{"id":1644980610083,"input":"bananba","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ade\\codecp\\longestPalSeq.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: selfchar","url":"d:\\ade\\codecp\\selfchar.cpp","tests":[{"id":1642728481237,"input":"001001\n","output":"NO\n"},{"id":1642728505072,"input":"1000000001","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ade\\codecp\\selfchar.cpp","group":"local","local":true}

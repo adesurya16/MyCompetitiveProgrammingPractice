@@ -1,0 +1,1 @@
+{"name":"Local: ballons","url":"d:\\ade\\codecp\\ballons.cpp","tests":[{"id":1643057872454,"input":"nlaebolko\n","output":"1"},{"id":1643057890492,"input":"loonbalxballpoon\n","output":"2"},{"id":1643057918804,"input":"leetcode","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ade\\codecp\\ballons.cpp","group":"local","local":true}
