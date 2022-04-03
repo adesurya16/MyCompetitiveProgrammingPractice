@@ -1,0 +1,1 @@
+{"name":"Local: doorskey","url":"d:\\ade\\codecp\\doorskey.cpp","tests":[{"id":1646100761868,"input":"4\nrgbBRG\nRgbrBG\nbBrRgG\nrgRGBb","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ade\\codecp\\doorskey.cpp","group":"local","local":true}

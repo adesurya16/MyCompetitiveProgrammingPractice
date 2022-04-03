@@ -1,0 +1,1 @@
+{"name":"Local: lebah","url":"d:\\ade\\codecp\\lebah.cpp","tests":[{"id":1647137842337,"input":"5\n1\n5\n6\n13\n32","output":"yes\nno\nyes\nno\nyes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ade\\codecp\\lebah.cpp","group":"local","local":true}
