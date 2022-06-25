@@ -1,0 +1,1 @@
+{"name":"Local: lovely","url":"d:\\ade\\codecp\\lovely.cpp","tests":[{"id":1654356672706,"input":"12 73","output":"-1"},{"id":1654356684718,"input":"12 12","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ade\\codecp\\lovely.cpp","group":"local","local":true}

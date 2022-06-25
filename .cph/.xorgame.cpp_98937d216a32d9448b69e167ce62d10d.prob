@@ -1,0 +1,1 @@
+{"name":"Local: xorgame","url":"d:\\ade\\codecp\\xorgame.cpp","tests":[{"id":1654358335987,"input":"5\n1 2 3 4 5","output":"7"},{"id":1654358343614,"input":"1\n1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ade\\codecp\\xorgame.cpp","group":"local","local":true}

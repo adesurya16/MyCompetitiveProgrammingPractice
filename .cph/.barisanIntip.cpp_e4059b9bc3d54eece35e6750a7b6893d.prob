@@ -1,0 +1,1 @@
+{"name":"Local: barisanIntip","url":"d:\\ade\\codecp\\barisanIntip.cpp","tests":[{"id":1654279432435,"input":"8\n5\n1\n3\n4\n6\n5\n2\n6\n","output":"22\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ade\\codecp\\barisanIntip.cpp","group":"local","local":true}

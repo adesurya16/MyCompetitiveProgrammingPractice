@@ -1,0 +1,1 @@
+{"name":"Local: shipping","url":"d:\\ade\\codecp\\shipping.cpp","tests":[{"id":1651140527015,"input":"4\n1 4 2 4","output":"1 2 2 3"},{"id":1651141013574,"input":"5\n100 100 100 100 1","output":"5 4 3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ade\\codecp\\shipping.cpp","group":"local","local":true}

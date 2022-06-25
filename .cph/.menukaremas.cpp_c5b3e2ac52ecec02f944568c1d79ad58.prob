@@ -1,0 +1,1 @@
+{"name":"Local: menukaremas","url":"d:\\ade\\codecp\\menukaremas.cpp","tests":[{"id":1655185495650,"input":"12","output":"13"},{"id":1655185500790,"input":"11","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ade\\codecp\\menukaremas.cpp","group":"local","local":true}

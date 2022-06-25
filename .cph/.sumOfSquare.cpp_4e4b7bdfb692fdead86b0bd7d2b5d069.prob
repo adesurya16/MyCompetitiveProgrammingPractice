@@ -1,0 +1,1 @@
+{"name":"Local: sumOfSquare","url":"d:\\ade\\codecp\\sumOfSquare.cpp","tests":[{"id":1654967904339,"input":"5","output":"true"},{"id":1654967918322,"input":"3","output":"false"},{"id":1654992605509,"input":"1000","output":"true"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ade\\codecp\\sumOfSquare.cpp","group":"local","local":true}

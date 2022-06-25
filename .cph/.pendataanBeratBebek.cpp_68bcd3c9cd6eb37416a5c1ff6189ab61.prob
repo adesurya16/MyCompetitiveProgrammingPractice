@@ -1,0 +1,1 @@
+{"name":"Local: pendataanBeratBebek","url":"d:\\ade\\codecp\\pendataanBeratBebek.cpp","tests":[{"id":1654319325825,"input":"5\n3 6 8 10 20\n2\n2 15\n10 20","output":"4\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ade\\codecp\\pendataanBeratBebek.cpp","group":"local","local":true}

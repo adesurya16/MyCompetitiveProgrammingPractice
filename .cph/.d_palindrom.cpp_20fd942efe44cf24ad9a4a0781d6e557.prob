@@ -1,0 +1,1 @@
+{"name":"Local: d_palindrom","url":"d:\\ade\\codecp\\d_palindrom.cpp","tests":[{"id":1654316508574,"input":"5\nwewewe\npelatnas\nkedua\ndi\njogja","output":"5\n3\n1\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ade\\codecp\\d_palindrom.cpp","group":"local","local":true}
