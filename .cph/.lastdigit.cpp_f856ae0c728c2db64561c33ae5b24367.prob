@@ -1,1 +1,1 @@
-{"name":"Local: lastdigit","url":"d:\\ade\\codecp\\lastdigit.cpp","tests":[{"id":1648392878742,"input":"2\n3 10\n6 2\n","output":"9\n6\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ade\\codecp\\lastdigit.cpp","group":"local","local":true}
+{"name":"Local: lastdigit","url":"d:\\ade\\codecp\\lastdigit.cpp","tests":[{"id":1648392878742,"input":"2\n3 10\n6 2","output":"9\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ade\\codecp\\lastdigit.cpp","group":"local","local":true}

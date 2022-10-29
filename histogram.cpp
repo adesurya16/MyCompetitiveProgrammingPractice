@@ -1,7 +1,7 @@
 // Largest Rectangle in a histogram https://www.spoj.com/problems/HISTOGRA/
 #include <bits/stdc++.h>
 using namespace std;
-long long largestRectangleHistogram(vector<int> histogram)
+long long largestRectangleHistogram(vector<int> &histogram)
 {
     int size = histogram.size();
     int maxArea = -1;
@@ -95,7 +95,7 @@ void solve(int nRec)
     {
         cin >> h[i];
     }
-    cout << largestRectangleAreaBruteForce(h) << endl;
+    cout << largestRectangleHistogram(h) << endl;
 }
 
 int main()
